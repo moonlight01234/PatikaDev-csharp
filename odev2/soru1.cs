@@ -2,7 +2,7 @@ using System.Collections;
 
 namespace ConsoleApp
 {
-    internal class Program
+    internal class soru1
     {    static bool asalmi(int n)
         {
             int sayac = 0;
