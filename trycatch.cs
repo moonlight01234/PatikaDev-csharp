@@ -1,6 +1,6 @@
 namespace ConsoleApp5
 {
-    internal class Program
+    internal class trycatch
     {
         static void Main(string[] args)
         {
